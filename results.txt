@@ -1,0 +1,90 @@
+34055.txt -> The Crew | poor
+33722.txt -> Christmas Holiday | bad
+33794.txt -> The Curse | poor
+33939.txt -> Festival | poor
+33690.txt -> Disturbed | terrible
+33828.txt -> Believe | great
+34085.txt -> Amateur | neutral or undecidable
+34009.txt -> The Crew | poor
+33731.txt -> Matchbox | terrible
+33764.txt -> The Producers | poor
+33986.txt -> The Curse | terrible
+33696.txt -> My Boys | poor
+33836.txt -> The World | poor
+33979.txt -> Desire | great
+33863.txt -> Night Vision | poor
+33994.txt -> Stone | good
+34059.txt -> Redemption | great
+33851.txt -> Nowhere | good
+34071.txt -> Romeo and Juliet | good
+33974.txt -> A Clockwork Orange | bad
+33785.txt -> Vampires Anonymous | atrocious
+33709.txt -> Bad Guy | good
+33693.txt -> Rocket Science | bad
+33786.txt -> Call Me | bad
+33959.txt -> Knowing | neutral or undecidable
+33971.txt -> Criminal | poor
+34001.txt -> The World | good
+33736.txt -> The Criminal | poor
+34109.txt -> Out There | bad
+34044.txt -> Bogus | good
+33733.txt -> The Man | poor
+34020.txt -> Get Back | poor
+33984.txt -> The Squid and the Whale | poor
+33815.txt -> Everything | bad
+34151.txt -> The World | poor
+33895.txt -> The Bat | bad
+33893.txt -> Criminal | bad
+34063.txt -> The Traveler | poor
+33686.txt -> The Great New Wonderful | good
+33827.txt -> Dealer | bad
+34012.txt -> Kidnapped | bad
+33935.txt -> The Presence | good
+34124.txt -> The Crawlers | poor
+34094.txt -> Real World | poor
+33992.txt -> Amateur | poor
+34021.txt -> Camera | good
+33775.txt -> In the Dark | poor
+33765.txt -> Haunted House | bad
+33685.txt -> Believe | poor
+33848.txt -> His Girl Friday | poor
+33835.txt -> Perfect | poor
+34103.txt -> Black | bad
+33710.txt -> Kidnapped | poor
+33784.txt -> Closer | poor
+33852.txt -> Haunted House | poor
+34083.txt -> What If? | poor
+34093.txt -> Out There | poor
+33973.txt -> Seven Minutes | bad
+33732.txt -> The One | poor
+33780.txt -> The Man | poor
+33801.txt -> Horror of the Blood Monsters | atrocious
+34025.txt -> The Apocalypse | poor
+34105.txt -> Out There | atrocious
+33788.txt -> Nowhere | bad
+33907.txt -> Criminal | neutral or undecidable
+33904.txt -> The Snow Queen | poor
+34056.txt -> The Lawnmower Man | terrible
+34015.txt -> Everything | neutral or undecidable
+33831.txt -> The Hudsucker Proxy | poor
+34121.txt -> Perfect | bad
+33726.txt -> Perfect | poor
+33927.txt -> Messages | good
+33819.txt -> Battlefield Earth | good
+34097.txt -> What If? | terrible
+33859.txt -> Spring Break | poor
+33825.txt -> The Love-Ins | poor
+34162.txt -> Anne of the Thousand Days | bad
+33886.txt -> Desire | terrible
+33853.txt -> In the Beginning | terrible
+34008.txt -> In the Beginning | bad
+33754.txt -> Perfect | great
+34002.txt -> The General | terrible
+33952.txt -> Festival | bad
+33707.txt -> In the Dark | bad
+34041.txt -> The Informers | great
+33766.txt -> Everything | bad
+33916.txt -> Judgment | bad
+33758.txt -> Caught | terrible
+33919.txt -> Only You | good
+33934.txt -> Barbed Wire Dolls | terrible
